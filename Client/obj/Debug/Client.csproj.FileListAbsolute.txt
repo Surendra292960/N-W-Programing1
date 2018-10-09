@@ -1,0 +1,7 @@
+G:\C#.NetPrograms\Server\Client\bin\Debug\Client.exe.config
+G:\C#.NetPrograms\Server\Client\bin\Debug\Client.exe
+G:\C#.NetPrograms\Server\Client\bin\Debug\Client.pdb
+G:\C#.NetPrograms\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Server\Client\obj\Debug\Client.exe
+G:\C#.NetPrograms\Server\Client\obj\Debug\Client.pdb
+G:\C#.NetPrograms\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
